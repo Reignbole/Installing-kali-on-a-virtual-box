@@ -11,6 +11,7 @@ A step-by-step guide to installing and setting up Kali Linux on VirtualBox. Incl
 3.	Software Requirements:
 o	VirtualBox (latest version)
 o	Kali Linux ISO (Installer image)
+<img src="Folder/Download Kali.png">
 _________________________________________________________________________________________________________________
 Steps to Install Kali Linux
 
