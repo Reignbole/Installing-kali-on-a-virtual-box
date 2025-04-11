@@ -39,16 +39,23 @@ Steps to Install Kali Linux
 
 <strong>Step 4: Create a New Virtual Machine in VirtualBox</strong>
 1.	Open VirtualBox and click New.
+	
+<img src="Folder/New.jpg">	
+	
 2.	Fill out the fields:
   o	Name: Kali Linux
   o	Type: Linux
   o	Version: Debian (64-bit)
-4.	Click Next.
-5.	Assign memory (RAM): Select at least 2048 MB (2 GB) or more, depending on your system's capacity.
-6.	Select Create a Virtual Hard Disk Now, then click Create.
-7.	Choose VDI (VirtualBox Disk Image) and click Next.
-8.	Choose Dynamically Allocated and click Next.
-9.	Specify the disk size (minimum 20 GB) and click Create.
+3.	Click Next.
+<img src="Folder/Name your OS.png">
+		
+4.	Assign memory (RAM): Select at least 2048 MB (2 GB) or more, depending on your system's capacity.
+5.	Select Create a Virtual Hard Disk Now, then click Create.	
+6.	Choose VDI (VirtualBox Disk Image) and click Next.
+7.	Choose Dynamically Allocated and click Next.
+8.	Specify the disk size (minimum 20 GB) and click Create.
+
+<img src="Folder/Create HDD.png">	
 
 <strong>Step 5: Configure the Virtual Machine</strong>
 1.	Select the newly created virtual machine and click Settings.
